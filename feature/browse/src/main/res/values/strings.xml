@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="browse">Browse</string>
+    <string name="compose">Compose</string>
+    <string name="test">Test</string>
+</resources>
